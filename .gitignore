@@ -1,0 +1,10 @@
+# Environments
+venv/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Temp audio
+temp_audio.*
